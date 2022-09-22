@@ -18,4 +18,3 @@ int main()
     printf("Modulus of two given numbers %d and %d is = %d\n",a,b,mod);
     return 0; 
 }
-
